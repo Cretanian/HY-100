@@ -1,0 +1,1 @@
+Input (1, 2, 0) is wrong. row, col must be in 1...64, col <= row and mode 0, 1 or 2.
