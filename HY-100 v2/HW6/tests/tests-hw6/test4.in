@@ -1,0 +1,6 @@
+import test4_import.csv
+remove "The Godfather"
+remove "Fight Club"
+update "Blade Runner" actors "Actor 1,Actor 2,Actor 3,Actor 4"
+export test4.csv
+exit

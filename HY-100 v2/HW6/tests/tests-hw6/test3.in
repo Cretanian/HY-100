@@ -1,0 +1,5 @@
+import test3_import.csv
+remove "Blade Runner"
+update "Fight Club" genre "Unknown"
+export test3.csv
+exit

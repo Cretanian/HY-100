@@ -1,0 +1,4 @@
+import test2_import.csv
+add "Blade Runner" 1982 "Science Fiction" "Harrison Ford,Rutger Hauer,Sean Young,Edward James Olmos,M. Emmet Walsh,Daryl Hannah,William Sanderson,Brion James,Joe Turkel,Joanna Cassidy,James Hong,Morgan Paull,Hy Pyke"
+export test2.csv
+exit
